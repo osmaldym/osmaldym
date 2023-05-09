@@ -28,5 +28,3 @@ class TheBestLanguaje {
 ![Osmaldym stats](https://github-readme-stats.vercel.app/api?username=osmaldym&show_icons=true&bg_color=003E5200&count_private=true)
 
 [![Osmaldym top Languajes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osmaldym&bg_color=003E5200&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Osmaldym wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=osmaldym&bg_color=003E5200&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
