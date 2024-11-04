@@ -1,10 +1,10 @@
 # ¡Hi 👋, i'm Osmaldy Maldonado!
 
-## - Full Stack Software Devepoler
+## - Full Stack Devepoler
 
 > If imagine it, is possible programming it
 
-Middle software and web developer with +4 years of personal projects experience. My knowledge based on Development, DevOps, Desktop and Android applications and UI desing.
+Jr. Web and Mobile Developer with 1+ years of experience. My knowledge based on Development, DevOps, Desktop and Android applications and UI desing.
 
 - 🖥️: Visit my portfolio [Osmaldy Maldonado](https://osmaldymaldonado.web.app)
 - 🌱: I'm actualy learning more of Angular.js, Express.js, MongoDB and... English :,)
