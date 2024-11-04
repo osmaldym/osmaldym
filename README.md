@@ -1,6 +1,6 @@
 # ¡Hi 👋, i'm Osmaldy Maldonado!
 
-## - Full Stack Devepoler
+## Full Stack Devepoler
 
 > If imagine it, is possible programming it
 
