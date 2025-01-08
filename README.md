@@ -2,7 +2,7 @@
 
 ## Full Stack Devepoler
 
-> If imagine it, is possible programming it
+> `if (you.canImagineIt) you.canProgramIt()`
 
 Jr. Web and Mobile Developer with 1+ years of experience. My knowledge based on Development, DevOps, Desktop and Android applications and UI desing.
 
@@ -12,7 +12,7 @@ Jr. Web and Mobile Developer with 1+ years of experience. My knowledge based on 
 - 📫: Contact me with email: osmaldy11checo@gmail.com
 - ⚡: My favorite languaje is Java, the best languaje. 😈
 
-```
+```java
 class TheBestLanguaje {
    public static void main(String args){
        System.out.println("¡Yes i'm the best languaje!");
