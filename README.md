@@ -4,13 +4,13 @@
 
 > `if (you.canImagineIt) you.canProgramIt()`
 
-Jr. Web and Mobile Developer with 1+ years of experience. My knowledge based on Development, DevOps, Desktop and Android applications and UI desing.
+Jr. Developer with 1+ years of experience. My knowledge is based on DevOps and UI/UX desing with Android • Web • Desktop Development.
 
-- 🖥️: Visit my portfolio [Osmaldy Maldonado](https://osmaldymaldonado.web.app)
-- 🌱: I'm currently learning more of React Native, Nest.js, MongoDB and... English :,)
+- 💼: Visit my portfolio [Osmaldy Maldonado](https://osmaldymaldonado.web.app)
+- ⚛️: I'm currently learning more of React Native, Nest.js, MongoDB and... English :,)
 - 😆: Call me Osmy or Osma
-- 📫: Contact me with email: osmaldy11checo@gmail.com
-- ⚡: My favorite languaje is Java, the best languaje. 😈
+- 📫: Contact me by email: osmaldy11checo@gmail.com
+- 👨‍💻: My favorite languaje is Java, the best languaje. 😈
 
 ```java
 class TheBestLanguaje {
