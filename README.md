@@ -7,7 +7,7 @@
 Jr. Web and Mobile Developer with 1+ years of experience. My knowledge based on Development, DevOps, Desktop and Android applications and UI desing.
 
 - 🖥️: Visit my portfolio [Osmaldy Maldonado](https://osmaldymaldonado.web.app)
-- 🌱: I'm actualy learning more of Angular.js, Express.js, MongoDB and... English :,)
+- 🌱: I'm currently learning more of React Native, Nest.js, MongoDB and... English :,)
 - 😆: Call me Osmy or Osma
 - 📫: Contact me with email: osmaldy11checo@gmail.com
 - ⚡: My favorite languaje is Java, the best languaje. 😈
